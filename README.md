@@ -11,9 +11,9 @@ I build scalable systems, clean APIs, and robust frontends. Focused on pragmatic
 - Practices: SOLID, Clean Architecture, DDD, RBAC
 
 ## Spotlight Projects
-- **SaaS for Salon Management (multi-tenant)** — billing, subscriptions, and tenancy isolation.
-- **RBAC REST API** — JWT auth, role-based access, and auditing.
-- **Oracle Integrations** — PL/SQL routines, ETL jobs, and data pipelines.
+- **Zenvo SaaS (Barbershop/Salon)** — multi-tenant platform with auth, scheduling, and plans. Repo: https://github.com/Brunom-Oliveira/Zenvo_saas
+- **RBAC REST API** — JWT auth, role-based access, and auditing. (coming soon)
+- **Oracle Integrations** — PL/SQL routines, ETL jobs, and data pipelines. (coming soon)
 
 ## What I Deliver
 - High-availability APIs with clear contracts and observability.
