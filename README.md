@@ -28,15 +28,13 @@ I'm a passionate developer focused on building scalable systems, clean APIs, and
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=tokyonight&hide_border=true" alt="Bruno's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunom-Oliveira&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunom-Oliveira&theme=tokyonight&hide_border=true" width="800" />
 </div>
 
 ---
