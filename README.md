@@ -30,8 +30,8 @@ I'm a passionate developer focused on building scalable systems, clean APIs, and
 
 <div align="center">
   <a href="https://github.com/Brunom-Oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=9f9f9f&icon_color=007ACC&hide=stars" alt="Bruno's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=9f9f9f&icon_color=007ACC" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=9f9f9f&icon_color=007ACC&hide=stars" alt="Bruno's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=9f9f9f&icon_color=007ACC" alt="Top Languages" />
   </a>
 </div>
 
