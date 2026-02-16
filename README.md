@@ -26,15 +26,16 @@ I'm a passionate developer focused on building scalable systems, clean APIs, and
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Brunom-Oliveira&theme=tokyonight&no-frame=true&column=7" />
 </div>
 
+## 📊 Activity Graph
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunom-Oliveira&theme=tokyonight&hide_border=true" alt="git streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Brunom-Oliveira&theme=tokyo-night" />
 </div>
 
 ---
