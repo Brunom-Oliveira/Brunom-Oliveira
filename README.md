@@ -29,12 +29,14 @@ I'm a passionate developer focused on building scalable systems, clean APIs, and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Bruno's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/Brunom-Oliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&text_color=9f9f9f&icon_color=007ACC&hide=stars" alt="Bruno's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=9f9f9f&icon_color=007ACC" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunom-Oliveira&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunom-Oliveira&theme=transparent&hide_border=true&title_color=007ACC&text_color=9f9f9f&sideNums=007ACC&sideLabels=9f9f9f&fire=007ACC&ring=007ACC&currStreakNum=9f9f9f&currStreakLabel=007ACC" alt="GitHub Streak" />
 </div>
 
 ---
