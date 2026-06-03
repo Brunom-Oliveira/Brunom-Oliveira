@@ -1,69 +1,79 @@
-# Hi there 👋, I'm Bruno Oliveira
-
-### 🚀 Full Stack Engineer | Node.js, TypeScript, React | Software Architecture
-
-I'm a passionate developer focused on building scalable systems, clean APIs, and robust frontends. I specialize in pragmatic architecture, code quality, and delivery.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-### Database & Infra
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## ⚡ Contribution History
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunom-Oliveira/Brunom-Oliveira/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunom-Oliveira/Brunom-Oliveira/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brunom-Oliveira/Brunom-Oliveira/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Bruno+Oliveira;Full+Stack+Engineer;Software+Architect" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <em>Passionate developer focused on building scalable systems, clean APIs, and robust frontends.</em>
+</p>
+
 <div align="center">
+  <a href="mailto:brunomateusoliveira6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/bruno-oliveira-445bb2285"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+<details>
+  <summary><b>✨ Click to know more about me</b></summary>
+  <br/>
+  
+  - 🔭 **Working on:** SaaS platforms (like WMS Obras) and scalable REST APIs.
+  - 🌱 **Learning:** Advanced Software Architecture, Clean Code, and Cloud Infrastructure.
+  - 👯 **Collaborating on:** Open Source projects and challenging backend architectures.
+  - 💬 **Ask me about:** Node.js, React, NestJS, and Relational Databases (Postgres, Oracle).
+  - ⚡ **Fun fact:** I love turning coffee into pragmatic code and solving hard technical challenges!
+</details>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,express,nestjs,postgres,redis,docker,githubactions" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+---
+
+### 🏆 Spotlight Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏗️ **[MTObras (SaaS)](https://github.com/Brunom-Oliveira/MTObras)** | Plataforma SaaS WMS para gestão de materiais na construção civil. | `TypeScript` `Node.js` |
+| 🐼 **[Caixa Panda (PDV)](https://github.com/Brunom-Oliveira/PJ_caixa_Panda)** | Ponto de Venda (PDV) com integração de hardware e design responsivo. | `TypeScript` `React` |
+| 💪 **[FlowFit](https://github.com/Brunom-Oliveira/FlowFit)** | Aplicação Web interativa voltada para fitness (Deploy na Vercel). | `TypeScript` `Next.js` |
+| 🚀 **[Zenvo SaaS](https://github.com/Brunom-Oliveira/Brunom-Oliveira/tree/main/Zenvo_saas)** | Plataforma Multi-tenant com auth, agendamentos e planos. | `React` `Node.js` |
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=C9D1D9" height="150" alt="Top Languages" />
+</div>
+
+<details>
+  <summary><b>🐍 View Contribution Snake Animation</b></summary>
+  <br/>
+  <div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brunom-Oliveira/Brunom-Oliveira/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brunom-Oliveira/Brunom-Oliveira/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Brunom-Oliveira/Brunom-Oliveira/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+</details>
+
+---
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Brunom-Oliveira&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
+</p>
 
----
-
-## 🏆 Spotlight Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Zenvo SaaS](https://github.com/Brunom-Oliveira/Zenvo_saas)** | Multi-tenant platform with auth, scheduling, and plans. | React, Node.js, TS |
-| **RBAC REST API** | JWT auth, role-based access, and auditing. (Coming soon) | Node.js, JWT |
-| **Oracle Integrations** | PL/SQL routines, ETL jobs, and data pipelines. (Coming soon) | PL/SQL, Oracle |
-
----
-
-## 📫 Connect with me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/bruno-oliveira-445bb2285" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:brunomateusoliveira6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
----
-<div align="center">
-    <i>If you're hiring or want to collaborate, let's talk.</i>
-</div>
+<p align="center">
+  <i>Let's build something amazing together! 🚀</i>
+</p>
