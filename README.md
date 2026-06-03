@@ -52,8 +52,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6&text_color=C9D1D9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=C9D1D9" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brunom-Oliveira&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunom-Oliveira&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </div>
 
 <details>
